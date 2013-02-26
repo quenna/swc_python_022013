@@ -1,6 +1,7 @@
 birdnames = """\
 Common Teal
 Long-tailed Duck
+another duck
 Little Grebe
 Albatross
 Flamingo
